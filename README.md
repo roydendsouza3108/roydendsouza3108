@@ -8,5 +8,4 @@ Passionate coder with 5 years of experience, I started my journey with the C pro
 
 *   🌍  I'm based in Goa, India
 *   ✉️  You can contact me at [roydendsouza3108@gmail.com](mailto:roydendsouza3108@gmail.com)
-*   🧠  I'm learning the React framework
 *   🤝  I'm open to collaborating on any open source projects
