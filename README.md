@@ -33,7 +33,7 @@ I'm a **DevOps Associate at Impactsure Technologies Pvt. Ltd.** based in Mumbai.
 ### 🌱 **Currently Learning & Growing**
 
 * Studying for the **AWS Solutions Architect** certification.
-* Diving deep into **Ansible**, **Terraform**, and **Kubernetes**.
+* Diving deep into **Go**, **Ansible**, **Terraform**, and **Kubernetes**.
 * Exploring system design for secure, high-availability production environments.
 
 ### 🌍 **Outside of Tech**
