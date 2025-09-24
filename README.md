@@ -1,6 +1,6 @@
 # Hey, I'm Royden Dsouza! 👋
 
-A Goa native currently living and working in Mumbai as a **DevOps Associate at Impactsure Technologies Pvt. Ltd.** My core passion is **DevOps and Automation** — I love turning complex problems into simple, automated solutions!
+I'm a **DevOps Associate at Impactsure Technologies Pvt. Ltd.** based in Mumbai. My core passion is **DevOps and Automation** — I love turning complex problems into simple, automated solutions!
 
 * 👨‍💻 &nbsp; I enjoy working across teams to improve workflows and make development pipelines smoother for everyone.
 * 🎓 &nbsp; I hold a **Master of Computer Applications** from Goa University.
