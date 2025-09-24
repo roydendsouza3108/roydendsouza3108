@@ -44,7 +44,7 @@ When I'm not in front of a screen, you can find me traveling, doing photography,
 <p align="left">
 <a href="https://linkedin.com/in/roydendsouza3108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roydendsouza3108" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14918390/royden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="royden" height="30" width="40" /></a>
-<a href="mailto:roydendsouza3108@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="roydendsouza3108@gmail.com" height="30" /></a>
+<a href="mailto:roydendsouza3108@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="roydendsouza3108" height="30" width="40" /></a>
 </p>
 
 ---
